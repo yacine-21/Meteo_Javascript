@@ -1,0 +1,15 @@
+*{
+    background-color:blue;
+}
+
+.jour{
+    color:white;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom:20px;
+    width:100%;
+    font-size:20px
+}
+.btn{
+    border:1px solid
+}
